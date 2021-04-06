@@ -1,5 +1,4 @@
 """
-@Clever Programmer
 
 Write a function square_number that 
 takes in a number and square it.
